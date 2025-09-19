@@ -303,4 +303,59 @@ using namespace std;
 //}
 
 
+// //problem21
+
+// int main() {
+//     int month;
+//     cout << "Enter the month number (1-12): ";
+//     cin >> month;
+
+//     cout << "In ";
+//     switch (month) {
+//         case 1:
+//             cout << "January there is: New Year's Day, 1 January.\n";
+//             break;
+//         case 2:
+//             cout << "February there is: Defender of the Fatherland Day, 14 February.\n";
+//             break;
+//         case 3:
+//             cout << "March there is:\n- International Women’s Day, 8 March.\n- Navruz, 21 March.\n";
+//             break;
+//         case 4:
+//             cout << "April there is: Navruz Holiday, 21 April.\n";
+//             break;
+//         case 5:
+//             cout << "May there is:\n- Labor Day, 1 May.\n- Memory and Honor Day, 9 May.\n";
+//             break;
+//         case 6:
+//             cout << "June there is: Ramadan Hayit (dates may change).\n";
+//             break;
+//         case 7:
+//             cout << "July there is: Ramadan Hayit (dates may change).\n";
+//             break;
+//         case 8:
+//             cout << "August there is: Independence Day, 31 August.\n";
+//             break;
+//         case 9:
+//             cout << "September there is: Knowledge Day, 1 September.\n";
+//             break;
+//         case 10:
+//             cout << "October there is: Teacher's Day, 1 October.\n";
+//             break;
+//         case 11:
+//             cout << "November there is:\n- Constitution Day, 8 November.\n- National Revival Day, 18 November.\n";
+//             break;
+//         case 12:
+//             cout << "December there is: New Year's Eve, 31 December.\n";
+//             break;
+//         default:
+//             cout << "Invalid month number. Please enter a number between 1 and 12.\n";
+//             break;
+//     }
+
+//     return 0;
+// }
+
+
+
 
